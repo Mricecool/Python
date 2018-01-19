@@ -129,7 +129,7 @@ s=set({[1,1,2,2,3,3]})
 
 不可变对象str
 a='abc'
-a.replace('a','A')创建了新的字符串'Abc'
+a.replace('a','A')
 'Abc'
 >>>a
 'abc'
